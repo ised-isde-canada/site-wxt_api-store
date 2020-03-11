@@ -4918,12 +4918,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/stephane-berube/keycloak.git",
-                "reference": "60498d0069963fa91c59a62b0244039549824a3c"
+                "reference": "1e7c6114bf6235884f566d9a762b94d3d4b597e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stephane-berube/keycloak/zipball/60498d0069963fa91c59a62b0244039549824a3c",
-                "reference": "60498d0069963fa91c59a62b0244039549824a3c",
+                "url": "https://api.github.com/repos/stephane-berube/keycloak/zipball/1e7c6114bf6235884f566d9a762b94d3d4b597e3",
+                "reference": "1e7c6114bf6235884f566d9a762b94d3d4b597e3",
                 "shasum": ""
             },
             "require": {
@@ -4949,7 +4949,7 @@
                 "issues": "https://www.drupal.org/project/issues/keycloak",
                 "source": "http://cgit.drupalcode.org/keycloak"
             },
-            "time": "2019-08-01T11:48:49+00:00"
+            "time": "2020-03-11T12:05:37+00:00"
         },
         {
             "name": "drupal/libraries",
@@ -6633,7 +6633,7 @@
                     "datestamp": "1560864485",
                     "security-coverage": {
                         "status": "not-covered",
-                        "message": "Project has not opted into security advisory coverage!"
+                        "message": "Beta releases are not covered by Drupal security advisories."
                     }
                 }
             },
@@ -6827,12 +6827,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/stephane-berube/openid_connect.git",
-                "reference": "de2b5726b53d0d8bcef5a721d1e34eeba03fd98a"
+                "reference": "a6f61cd45f3676ff8fe6fcb9482333344c6576fb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/stephane-berube/openid_connect/zipball/de2b5726b53d0d8bcef5a721d1e34eeba03fd98a",
-                "reference": "de2b5726b53d0d8bcef5a721d1e34eeba03fd98a",
+                "url": "https://api.github.com/repos/stephane-berube/openid_connect/zipball/a6f61cd45f3676ff8fe6fcb9482333344c6576fb",
+                "reference": "a6f61cd45f3676ff8fe6fcb9482333344c6576fb",
                 "shasum": ""
             },
             "require": {
@@ -6851,7 +6851,7 @@
                 "issues": "https://www.drupal.org/project/issues/openid_connect",
                 "source": "http://cgit.drupalcode.org/openid_connect"
             },
-            "time": "2019-08-01T11:51:45+00:00"
+            "time": "2020-03-11T12:05:38+00:00"
         },
         {
             "name": "drupal/page_manager",
@@ -7151,6 +7151,10 @@
                     "homepage": "https://www.drupal.org/user/48673"
                 },
                 {
+                    "name": "phenaproxima",
+                    "homepage": "https://www.drupal.org/user/205645"
+                },
+                {
                     "name": "samuel.mortenson",
                     "homepage": "https://www.drupal.org/user/2582268"
                 },
@@ -7220,6 +7224,10 @@
                 {
                     "name": "neclimdul",
                     "homepage": "https://www.drupal.org/user/48673"
+                },
+                {
+                    "name": "phenaproxima",
+                    "homepage": "https://www.drupal.org/user/205645"
                 },
                 {
                     "name": "samuel.mortenson",
@@ -7531,7 +7539,7 @@
                 },
                 "drupal": {
                     "version": "8.x-1.2",
-                    "datestamp": "1529154524",
+                    "datestamp": "1579404790",
                     "security-coverage": {
                         "status": "covered",
                         "message": "Covered by Drupal's security advisory policy"
@@ -7552,8 +7560,12 @@
                     "homepage": "https://www.drupal.org/node/53579/committers"
                 },
                 {
-                    "name": "hass",
-                    "homepage": "https://www.drupal.org/user/85918"
+                    "name": "ccjjmartin",
+                    "homepage": "https://www.drupal.org/user/3210801"
+                },
+                {
+                    "name": "mikeegoulding",
+                    "homepage": "https://www.drupal.org/user/2867877"
                 }
             ],
             "description": "Generates the robots.txt file dynamically and gives you the chance to edit it, on a per-site basis, from the web UI.",
@@ -8968,12 +8980,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/ised-isde-canada/wxt_api_store.git",
-                "reference": "447a722818dcff2750fdce6370c95100f70bb594"
+                "reference": "5fce61f4689bdd65af0ee50abb643b8975d2cff4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/ised-isde-canada/wxt_api_store/zipball/447a722818dcff2750fdce6370c95100f70bb594",
-                "reference": "447a722818dcff2750fdce6370c95100f70bb594",
+                "url": "https://api.github.com/repos/ised-isde-canada/wxt_api_store/zipball/5fce61f4689bdd65af0ee50abb643b8975d2cff4",
+                "reference": "5fce61f4689bdd65af0ee50abb643b8975d2cff4",
                 "shasum": ""
             },
             "require": {
@@ -8999,7 +9011,7 @@
                 "issues": "https://github.com/stephane-berube/wxt_api_store/issues",
                 "source": "https://github.com/stephane-berube/wxt_api_store"
             },
-            "time": "2020-01-20T14:57:05+00:00"
+            "time": "2020-03-11T12:05:35+00:00"
         },
         {
             "name": "drupal/wxt_bootstrap",
